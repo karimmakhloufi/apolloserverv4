@@ -1,0 +1,7 @@
+#http
+PUT  http://localhost:5000/api/wilders/63946e1e8fb476677a3d7958 HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "The best Wilder ever"
+}
